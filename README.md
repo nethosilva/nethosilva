@@ -1,4 +1,22 @@
-### Hi there 👋
+### Bem-vindo, sou o Francisco vulgo Neto 😄
+
+✉ nethosilva12@gmail.com
+
+° Discord:#8054
+
+Estudante em Analise e Desenvolvimento de Sistemas - 1/2024
+
+RESUMO PROFISSIONAL
+
+
+Sou analista com foco em testes de sistemas web e app, em busca de uma oportunidade 
+
+
+HABILIDADES E COMPETÊNCIAS DESENVOLVIDAS
+
+Técnicas de Testes
+* Planejamento: Elaboração de casos de teste, Execução dos testes, Análise de riscos
+* Trabalho em Equipe, proatividade, boa comunicação
 
 <!--
 **nethosilva/nethosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
