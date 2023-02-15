@@ -1,4 +1,4 @@
-### Bem-vindo, sou o Francisco vulgo Neto 😄
+### Bem-vindo, sou o Francisco "vulgo" Neto 😄
 
 ✉ nethosilva12@gmail.com
 
@@ -9,8 +9,7 @@ Estudante em Analise e Desenvolvimento de Sistemas - 1/2024
 RESUMO PROFISSIONAL
 
 
-Sou analista com foco em testes de sistemas web e app, em busca de uma oportunidade 
-
+Sou analista com foco em testes de sistemas web e app, em busca de uma oportunidade como QA, estudando automatizaçãoão  em Cypress
 
 HABILIDADES E COMPETÊNCIAS DESENVOLVIDAS
 
